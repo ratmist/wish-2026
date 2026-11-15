@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "title": "Компьютерные наушники",
+    "description": "Для игр в пк с коллегами",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/11558095236.jpg",
+    "url": "https://www.ozon.ru/product/naushniki-provodnye-fifine-h6-gaming-headsets-chernyy-bolshie-nakladnye-igrovye-dlya-pk-576928339/?at=1mKr1T3mkPV3waEvaZNj1hVZDBMrg4L2&sh=JthUKHox0g",
+    "price": "2 972₽",
+    "group": "tech",
+    "multi": true
+  },
+  {
+    "id": 2,
+    "title": "Спортивная сумка",
+    "description": "Неиронично каждый год прошу спортивную сумку(они все разваливаются)",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7814075198.jpg",
+    "url": "https://www.ozon.ru/product/under-armour-sumka-sportivnaya-ua-studio-tote-2670671477/",
+    "price": "4 395₽",
+    "group": "sport",
+    "multi": true
+  },
+  {
+    "id": 3,
+    "title": " Погружной Блендер",
+    "description": "Я хочу готовить крем супы. Мб чо то подешевле есть и норм",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/15188901483.jpg",
+    "url": "https://www.ozon.ru/product/blender-pogruzhnoy-moulinex-dd523af0-600-vt-s-izmelchitelem-i-nasadkami-2629287668/?at=1mOr1UBgP4SIdnVIFQpVG6iglJi1d5Ah&sh=JthUKLcmJw",
+    "price": "2 999₽",
+    "group": "home",
+    "multi": true
+  },
+  {
+    "id": 4,
+    "title": "Портативный блендер",
+    "description": "Интересная штукенция....",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7958270495.jpg",
+    "url": "https://www.ozon.ru/product/portativnyy-blender-xiaomi-mijia-portable-juicer-cup-2-besprovodnaya-sokovyzhimalka-blender-xiaomi-1635171674/?at=1mKr1OrR3YufK24ZaCgjzKYTZZ1KYdo2&sh=JthUKL5KYQ",
+    "price": "1 953₽",
+    "group": "home",
+    "multi": true
+  },
+  {
+    "id": 5,
+    "title": "Весы кухонные",
+    "description": "Нада",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-1/wc1000/7523756425.jpg",
+    "url": "https://www.ozon.ru/product/vesy-kuhonnye-redmond-rs-772-belyy-820912728/?at=1mKr1Ucq1xiBVqHIR_2KtR0PbTbNkxGb&ectx=1&from_sku=820912734&oos_search=false&sh=JthUKC9uQg",
+    "price": "685₽",
+    "group": "home",
+    "multi": true
+  },
+  {
+    "id": 6,
+    "title": "Вафельница",
+    "description": "Вафли готовить",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-p/wc1000/10323980629.jpg",
+    "url": "https://www.ozon.ru/product/vafelnitsa-tuvio-s-3-komplektami-semnyh-paneley-1000vt-tsm03-yandeks-fabrika-3211158735/?at=1mKr1XTaHuR_n515cgzMQuGouzzksgYg&sh=JthUKF3suA",
+    "price": "2 990₽",
+    "group": "home",
+    "multi": true
+  },
+  {
+    "id": 7,
+    "title": "Кроксы",
+    "description": "Хочу хочу хочу РОЗОВЫЕ ХОЧУ РЕБЯТА ОЧЕНЬ НАДО, размер 41 длина стопы 26.5 вроде",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7337631083.jpg",
+    "url": "https://www.ozon.ru/product/vneshniy-akkumulyator-poverbank-hoco-j103-10000-mah-s-bystroy-zaryadkoy-prozrachnyy-2004021048/?at=r2t4JOoowUNL60Z5FArRn4XsQWKmJIw1w0lWFK5rW9Q",
+    "price": "???? ₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 8,
+    "title": "Духи Kenzo",
+    "description": "Желательно 100мл",
+    "image": "https://cdn-01.goldapple.ru/p/p/19760300241/web/696d67416464338ddc44c8f438c9dfullhd.webp",
+    "url": "https://goldapple.ru/19760300241-flower-by-kenzo-poppy-bouquet",
+    "price": "???? ₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 9,
+    "title": "Фен стайлер",
+    "description": "Очень хочется......Если подешевле найдете, но хорошей фирмы тоже ок",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-2/wc2500/21274607342.jpg",
+    "url": "https://www.ozon.ru/product/fen-stayler-s-ionizatsiey-tuvio-hbi1412-7-nasadok-sumka-dlya-hraneniya-temnyy-metallik-1664985713/?at=1mKr1QRNau5SQs7syVYiCp4H4U1knkhn&from_sku=1664985713&oos_search=false&sh=JthUKDXiwQ",
+    "price": "5 990₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 10,
+    "title": "Лабреты",
+    "description": "Главное из медицинской стали или титана - аккуратненькие миленькие, желательно штук 6 попарно разных, можно меньше",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-r/wc600/12036991095.jpg",
+    "url": "https://www.ozon.ru/product/labret-v-nos-i-ushi-dlya-pirsinga-2-sht-zvezdochki-belye-4909564371/?at=1mKr1-D08rcXYF9tF83B58Nn0xwYp70k&sh=JthUKH8Jpg",
+    "price": "249₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 11,
+    "title": "Браслет",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-mpic/22024977/picd236cff83f637ed3fa8678c7586dcc37/orig",
+    "url": "https://market.yandex.ru/card/braslet-fiore-atlasnyy-shnur/235408110109147136?do-waremd5=CmBkiw2cE4HYgTD9Q7ARjA&cpc=vP3gZb0MWXrcidDu0zfu2W41iP1OnmYIC0mFDqrhn1sUNUSGfvQh5I22mTd9QaGf6vEPHRO2XaYI48L_SU0bkmnXCyaSVKUyGIZO1JOxvNXbZz7VQb_sAjKVwe6SNBfuJS-Se6OxF55QQgpVgLqfz0hvcM6NiroXgQ1Zd_kM9rD8VfZL0gpdWH5_smMgostAVLVamOMTNkmWuA55JqNi0YBC17y0LQJXF0d9DSrIbbII9HE5Jkc-LB9FZjR0z96-uliua6ZB_1STow4VkwngvqlMw7UDnz9Oz00Os0FYjQAvOmteVy73jPbAfPfIzUlLvBpGQYF8dfWjhZ3M8t-GKA0ESwOppzpu1Nym1O0O7Iwak2FPE2AaRWqxwxOsM2MP4zLTN7KtBax528EmJaRzL_rq4Y76-6ZkFKjtcfVVtdb6bSJtp6dITQwKkN1PjOSkOAX4X30VLvsydyKL_-LDm8LIo5ifsRUEdGCL_0NS8-ylPMcAQGr0dWDy85jtoTZZyCWxtY66BY-Ub0UN4FQgJdIUKEJuAEgZ&nid=67682233&firstOpenOskuId=6154377504&firstOpenOfferId=LhGK4hmF17alODaeyUZdjQ",
+    "price": "1 773 ₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 12,
+    "title": "Браслет",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-mpic/18524694/2a0000019c60e3e5b4b055b9aa675726c808/orig",
+    "url": "https://market.yandex.ru/card/braslet-iz-gematita-s-kristallom/4652954357?ogV=392&do-waremd5=2Ime6eqla_aNsqXFXVzbCQ&cpc=3LoUBbF0uvU1fEz3u2DCGkr4FNbc_4GHee_m_e1qUzWAZCTQ2eRWey9ulwGY5vI7-wdg2EFj9o8rt8t0LgAuu9QP54YP_CrKYGt0SCTX9SrY588QYx4bfpAqi6YZ9nRaCX1Z1nu0uH_psyrshnnoRoxHmmzvQaF1CMfHBEuPYkmC6mepx8kxWxr4b3uRk9gQeH-P_fExF6XJc3XCeFclJeq_vXfs734MW7VGbehZ3_IOtByXysRc6pibaDRS3vJb8Sv9dYEocxchb9zqR26CXuz29uOVbQ_VTgDqGJ3PQb1cJWfrnSIJQinVlEHTgk2jnqEz4SlMRWnNawKC6Zjo0bV-LKHED_sVIZuf-8uwxL6tmJf6GeI0FMgHAs6gvCYQud0OtCSZaZ5BPZmJBuNPZ8hT_uAoEQKUj__mimb13PUcBsPeWz5VFNe3bVOcEZHxyFErIFKW5EA1Qs9f2IA_hrothqlVspNcG49lgTP2JEdPIQQaQ2ojjaPOi-dltS-83NWtCC2XZnGw6YdaO1ip677hfc3suqeb&cc=CiA1OGU5MDAzMmMyMTlhNTJhNTIyNWQ4YmQyZWNhMTIyMhCWAYB95u0G&resale_goods=resale_new&hid=67678046&nid=67682233&show-uid=17947433915605862974506001&showUid=17947433915605862974506001&from-show-uid=17947433915605862974506001&cpa=1&bnplSelectedPlan=6",
+    "price": "1 360₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 13,
+    "title": "Браслет",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-mpic/18102630/2a0000019e49b47f432047b3f3ab4cdefe21/180x240",
+    "url": "https://market.yandex.ru/card/braslet-yagodnyy-sorbet-s-naturalnym-agatom-i-podveskoy-tsvetok/5742760541?do-waremd5=cRhHn0VJOIW2lRzfT774cQ&cpc=3LoUBbF0uvU8l2GIgD36Z_284WRd4kEd3GnS6tmrjm-tPTDoufZFKJiq6nXuxo_DrRPa5WTlf6h18HGoygy88P2ZHEnsXm1rBdg8s7EnCGSdmdR3BHwuRhY69RLDjskfB2bEhzgKPLMHxwTW_D15Hq5hsa3emH_Z4FY9wSo7ykhtGf0DIcboCWjr6P_exVnqnQshjdoR4l1g17Xf4KC3C1P-o97S5F155LKAEO6p0sUPmkM71nQut65mIyBpssikE8iTmtCO9e7uiLHusNLNS8juqSQelpVOuP3qAgVmC_3ysGxjGULgI2jOYGazNs7kvVEoFG4Ncq6-yZKKNy053LNMY-LxiiPFoYdI7gfbjZ_bD1Hfrs_eY4iAzANJD_uY1CtenKE8be36FTfTHpMe2TiSbTnBUku_PQkrGm07Z9ops6wuTwdUvc3pjjvMTwrsnoGQLFcvqHdpGlMf-1DZVzWXTt1_3qSDwusMRM1_EwkObaBX7epxTrxrRuatx63yfvZTCZ3gfYVviwVzxynitmRRFAhjkCG9&nid=67682233&firstOpenOskuId=5742773817&firstOpenOfferId=trdKirtQ4KU3yaHY7yA7FQ",
+    "price": "1 860₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 14,
+    "title": "Книга",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-mpic/17406069/2a00000199e20089431fee34bd35c4ee2e99/600x800",
+    "url": "https://market.yandex.ru/card/gens-liderstvo-novaya-praktika-menedzhmenta/4589444733?do-waremd5=cyjP8jKkgPfc9kz5ZHWZlg&cpc=3LoUBbF0uvVCv7dNu5feVg4ye_qPr_h52TsPmmRp1RI11RYn9UQmpZ3mH2zmSUtGkEEpKMGogzO70YIBOaQyw9Yt08dR45oNC9unOsZM2ZI_swA1GUeHghjzny16BPEFlBQUsCp9CHwDPPYym24NSln85rwvxunxNoORePWroiFJhQR9NfY_prbB55aI5IieGTPZfNW3zyrzGb3zLZujORrD4XzQswB8RNVbX4xw8qdbM-GRnBADU5EIsiPNl7ePoiiH69uLoIuSqiwEML2KX7p8yUiQO9Dpqi6x50_RZY17xQO_xpXN47gz3vAiUJBlRn4asMnx6Ncp09j1Ttaej2jlHqhUY9S9cS3iNKN2-ThWZ5EUkGjpYH6-_T8Y3OYO5khI1-bi0jg7Lt6xxw5iEAA1lM_Ykw83p8OPHeXBKuXIVmfEkAxbL2XQwJpkzAO4WaJWf9LrIodA-jhc4F2RxTMtJA3uv7IZDde42PPCwLs%2C&nid=20598950&ogV=392&bnplSelectedPlan=6",
+    "price": "981 ₽",
+    "group": "hobby",
+    "multi": true
+  },
+    {
+    "id": 15,
+    "title": "Книга",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-mpic/14917431/2a000001990f1e356ea4ad3f4c8c97774237/600x800",
+    "url": "https://market.yandex.ru/card/lish-by-ne-rabotat-istorii-o-sovremennom-iskusstve-bellini-a/4620715859?uniqueId=701660&ogV=392&resale_goods=resale_new&nid=20598950&show-uid=17947433915605862974509011&showUid=17947433915605862974509011&from-show-uid=17947433915605862974509011",
+    "price": "???? ₽",
+    "group": "hobby",
+    "multi": true
+  },
+  {
+    "id": 16,
+    "title": "Серьги",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-mpic/21080804/picedff5c8d48b37e76f7e4fcdb41faa123/600x800",
+    "url": "https://market.yandex.ru/card/sergi-so-zvezdoy/103262972279?nid=66260976&showOriginalKmEmptyOffer=1&ogV=392",
+    "price": "???? ₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 17,
+    "title": "Картина по номерам/конструктор/пазл",
+    "description": "Это мне для развития когнтивных функций. <ul><li><a href='https://market.yandex.ru/cc/84kNE8'>Пазл</a></li><li><a href='https://market.yandex.ru/card/pazl-hatber-utyata-1500-elementov-670kh480-mm/103167953008?do-waremd5=Ka4wK1uSixb7u73uxb-ujQ&cpc=yxoetNR16OGBBY9pvHKWApBVq92ZSMSaDdcb81aTA_834Gvi3ep2tntcliuYJE9VGZRNoBlFnYQ3WnQ5oHUVRf5wJ1W27mCEIOVAFo27Bs99pb6ULbEp3Hc-3DzR0cp56N2tOoj-nKm_RuUAHvDMW_iMK7fQq9uVZ6srIBa96jILgMGkBm-777j7ZE8agaeqzUxKLLl87rW6HHRjWgIvJeT0tXpliUIZZ5HJ_aVUzaH3Qi0gxlxZ0ke3GEjCbSo7EZ7C_b_D0zm2k5KigRv9g3XY7qpRRT_qNYzhckfjJ11f1Cbn1tVkgSbBvQeDCLJ4FXyB3uMxMajIiOEEhsoCheZSFcWdNEQmwVA9S20cJ4O_4xgD0F1ki4w-RMoRBQxrfVInlVCcnLWdhO7bavwz4Yx7IkfCv1MG6JgOr9dDUQOCqpZgssvfJwyX0pzO2eH0FOCmP2rUl7FPeIVRPhKz0k3Yqw_1NeVR6yVbSsxBW6KzWMkpySlfzuWhJYq7xCRRbQgs_ewvK_Gdhc84kBsSNtm596WV5clq&nid=64052381&ogV=392&bnplSelectedPlan=6'>Пазл</a></li><li><a href='https://market.yandex.ru/cc/84kNSM'>Картина по номерам</a></li><li><a href='https://market.yandex.ru/cc/84kNka'>Картина по номерам</a></li><li><a href='https://www.wildberries.ru/catalog/278944684/detail.aspx?size=428849583'>Конструктор</a></li><li><a href='https://www.wildberries.ru/catalog/206468580/detail.aspx?size=331588163'>Конструктор</a></li></ul>",
+    "image": "https://avatars.mds.yandex.net/get-mpic/4466428/img_id7710760227125525250.jpeg/orig",
+    "url": "https://market.yandex.ru/cc/84kNSM",
+    "price": "наугад ₽",
+    "group": "hobby",
+    "multi": true
+  },
+  {
+    "id": 18,
+    "title": "Браслет",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-mpic/22165676/pic1dc81e3bd927611d69dbd4e6079e29b2/600x800",
+    "url": "https://market.yandex.ru/card/braslet-kvarts-kvadratnyy-multi/6167392671?do-waremd5=F6RBex6RI3tJYVfNVrMW7A&cpc=p7bRJcApZk2smJxxozy_lyTq5A6YUp3UpqvpQ4WI5XKTkyyOt8rsF-ztksRF8-KQCtXX_gc9e9izpo-F3UkoP7C94TWM3ZlmLj0yDxdici73BT6TNbVRo3SEwMCLGrxVTILCg4fKImSH_UYSrKrWW0GezvP21Iusm1GMwL7rHJLpPkDnjm2aUu9s3-EAfsaJKBkhtDAZMr0bZnGQBxb8sVrIsef2jauBHP-mCCoMt-0ukBcWO6rNXwcd-wruUmvC6nhzGSywjq_fuDbpfhAyKkuDf7jZuQtKlZ1I3uCAEq8B4iMze8X4YswuWGh-3YzljQIaZdTZdsoSukBFqOwW4tvO5CXUYlPss1ctKurw0g70V-tzRAMqEJyiTgdVO6treBwdrQHNSMWAvX6zWYru4KirxPPBd3j8ba8woDH9i0hAdxpJ8i0ijEDgeZiQ8rGYCOm0cdqb17TNpw9Uknbb8zObwPR_R9r8rPL0GLNEbya3FaHiThCUIMTHXCkt7ebxZhYjBSedzBZETpLmWPMmiFd8lGMLSZRB&nid=67682233&ogV=392&bnplSelectedPlan=6",
+    "price": "617₽",
+    "group": "self",
+    "multi": true
+  },
+  {
+    "id": 19,
+    "title": "Постельное белье",
+    "description": "Я не привыкла на такое тратиться, но такое люблю. Лучше однотонное, пастельных оттенков и 2-ух спальное, недорогое. И не из какого-нибудь сатина, лучше из хлопка или просто тканевое, а то на другом я буду кататься как масло на сковородке.",
+    "image": "https://avatars.mds.yandex.net/get-mpic/18094630/2a0000019eab9da81436741eae1078318609/orig",
+    "url": "https://market.yandex.ru/card/postelnoye-belye-noch-nezhna-2-spalnoye-na-rezinke-50kh70-byaz/5674706723?do-waremd5=E4UVufueHpny2YKpItxo4A&sponsored=1&cpc=iT10Cr-80DA5MEubDVQQE2FLft2uYB6eTUXrx8NfCxys5ZwZkgakRHKu-cNQnuVf0DGwDPKCntcWhBCLut0pGKBf9TXSuSHbSe21S9xRk-h9h6kjXxSkD-WkAK3ChVbzFHdXoeCeAJrowdf7tZoyh6e0P3xYcQz0JG4MNxB2hCBayfPPFNUZG2Y_DAQGxBD3oC45zyh2xXo6Vw_8pZyx6XGiCzFBsTdgM5vNnFAXFv2vasIUoqvAdBskuFSlT21XuuISNqHhGuKFMb9aNvwdlEM2TsVibW7VmalKc9fum4sVMwDaRC9ForKT8pVFkiuix5CeUFP5ggVWvIGiD6hnOH6zKw8H97_G1bjY8JiTFbsuhWNxsISqPPD1Cf7qNP0ZLOd9QKfFxcDFI73ac0XshE3aeROoCcR3h_KC3LY6etzH994fEYDbu7bnrUvlrOdcSJ_IOXbeVE-AMGzWG8rndT99_Ct_OfrNkUGfgE2S_aq5oXt7d-MTLOpGQHgGy3chgPpeVzvFRveSeR2SLlygvvMi9tA03pcR-9YdVScERWqISJQyhBDmg1u6D3giEkjucNsjJc6iBBGmAvl0pz7v1N0F2TDEJVE6&nid=63048&ogV=392&bnplSelectedPlan=6",
+    "price": "до 2000₽",
+    "group": "home",
+    "multi": true
+  },
+  {
+    "id": 20,
+    "title": "Абонемент на акробатику",
+    "description": "Хочу научиться делать сальто и бэкфлип, посодействуйте)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrlNWOTIOf4RxYRjqi1CTUn7XMoA_lmKSV5js45HyFw&s=10",
+    "url": "https://acronaut.ru/#Cen",
+    "price": "6900₽",
+    "group": "sport",
+    "multi": true
+  },
+  {
+    "id": 21,
+    "title": "Кроссовки для волейбола",
+    "description": "Длина стопы 26.5, ру размер 41 ",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/8155814636.jpg",
+    "url": "https://www.ozon.ru/product/krossovki-anta-4144186233/?at=1mOr1T096H1XUEUjpOzGyBiQeXeiAiVh&sh=JthUKLcmJw",
+    "price": "???? ₽",
+    "group": "sport",
+    "multi": true
+  },
+  {
+    "id": 22,
+    "title": "Подписка на xakep.ru",
+    "description": "Вообще было бы очень хорошо, нравится этот ресурс, но бесплатного контента маловато. Там есть годовая подписка, вроде есть на месяц(950 рэ), мне без разницы, было бы очень полезно.",
+    "image": "https://xakep.ru/wp-content/uploads/2026/10/Haker-godovaya-podpiska-dlya-vitriny-12-oktyabrya-2026-1-210x280.png",
+    "url": "https://xakep.ru/subscribe/",
+    "price": "6 000₽",
+    "group": "tech",
+    "multi": true
+  },
+  {
+    "id": 23,
+    "title": "Коллекционный номер «Хакера»",
+    "description": "Давно хочется.....",
+    "image": "https://static.tildacdn.com/tild6538-6366-4361-a638-303061656237/cover.jpg",
+    "url": "https://xakep.shop/paper-special-4",
+    "price": "2 000₽",
+    "group": "tech",
+    "multi": true 
+  },
+ {
+    "id": 24,
+    "title": "Наушники Nothing",
+    "description": "Оч оч. Есть еще в pitergsm",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-q/wc1000/9237311054.jpg",
+    "url": "https://www.ozon.ru/product/nothing-naushniki-s-mikrofonom-nothing-headphone-a-bluetooth-usb-type-c-svetlo-rozovyy-3556647322/?at=1mOr1XsrLxzcXGk0YtZtsD-QJqcPc0Cp&sh=JthUKHIdMg",
+    "price": "8 776₽",
+    "group": "tech",
+    "multi": true
+  },
+  {
+    "id": 25,
+    "title": "Часы Nothing",
+    "description": "",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/7728089590.jpg",
+    "url": "https://www.ozon.ru/product/nothing-smart-chasy-cmf-watch-3-pro-13-dnevnaya-batareya-1-43-amoled-ip68-bolshaya-versiya-46mm-2468019580/?at=1mOr1OnYUDTaRsXyzOy71asAztvQ-8Ji&from_sku=2468019580&oos_search=false&sh=JthUKHIdMg",
+    "price": "4 341₽",
+    "group": "tech",
+    "multi": true
+  },
+    {
+    "id": 26,
+    "title": "Маленькая полуспортивная сумка",
+    "description": "",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-t/wc1000/8562433565.jpg",
+    "url": "https://www.ozon.ru/product/maison-david-paris-sumka-tout-3251946582/?at=1mOr1YQza_ldM1erCH7KzynJJNK6fQJR&sh=JthUKAA8JA",
+    "price": "3 226₽",
+    "group": "sport",
+    "multi": true
+  },
+     {
+    "id": 27,
+    "title": "Маленькая полуспортивная сумка",
+    "description": "",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/11637329591.jpg",
+    "url": "https://www.ozon.ru/product/adidas-sportswear-sumka-na-plecho-sportivnaya-soft-lux-xbody-4735494632/?at=1mOr1PLQP5mBph9aeqCB39tmMrsRliH0&sh=JthUKHXJ4w",
+    "price": "2 726₽",
+    "group": "sport",
+    "multi": true
+  },
+      {
+    "id": 28,
+    "title": "Маленькая полуспортивная сумка",
+    "description": "",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-i/wc1000/14604794550.jpg",
+    "url": "https://www.ozon.ru/product/sumka-zhenskaya-krossbodi-topologie-bottle-sacoche-medium-pink-s-remnem-8-mm-red-blue-lattice-5680608740/?at=1mOr1XHzQYPldJZmHe1SgKBUTr90EfFz&from_sku=3580471254&oos_search=false&sh=JthUKHXJ4w",
+    "price": "2 534₽",
+    "group": "sport",
+    "multi": true
+  },
+    {
+    "id": 29,
+    "title": "Сумка",
+    "description": "",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-k/wc1000/20425543328.jpg",
+    "url": "https://www.ozon.ru/product/sumka-tout-zhenskaya-srednyaya-leopardovaya-korichnevaya-zamshevaya-formata-a4-s-koshelkom-pixi-bags-5883079583/?at=1mOr1Z1wxMTuKtbx_ayKxFh1JRyayBqI&sh=JthUKAA8JA",
+    "price": "3 562₽",
+    "group": "self",
+    "multi": true
+  },
+    {
+    "id": 30,
+    "title": "Набор кистей для макияжа",
+    "description": "Желательно большой набор, картинка заглушка а ссылка для примера",
+    "image": "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/20684854775.jpg",
+    "url": "https://www.ozon.ru/product/mixit-kisti-dlya-makiyazha-4-v-1-3371928306/?at=1mOr1-CnZLE42CI8fX2wPMsxEuKKJjWt&sh=JthUKMPa7g",
+    "price": "???? ₽",
+    "group": "self",
+    "multi": true
+  },
+    {
+    "id": 31,
+    "title": "Пирсинг уха",
+    "description": "Никогда не будет лишним",
+    "image": "https://hurtland.ru/templates/carnival/img/hl/pages/certificates.webp?v=1794226241",
+    "url": "https://hurtland.ru/certificates",
+    "price": "от 1000 ₽",
+    "group": "self",
+    "multi": true
+  },
+    {
+    "id": 32,
+    "title": "Абонемент на танцы в IDC",
+    "description": "Буду делать типа йоу",
+    "image": "https://static.tildacdn.com/tild6466-3365-4137-b335-383931393438/Photo_639_.JPG",
+    "url": "https://idcdance.ru/prices_idc",
+    "price": "5 900 ₽",
+    "group": "self",
+    "multi": true
+  }
+]
