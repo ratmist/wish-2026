@@ -10,11 +10,11 @@ type Booking = { id:string; gift_id:number; user_id:string; telegram:string };
 const items = imported as Gift[];
 const mostWantedIds = [1, 2, 7, 8, 9, 16, 20, 24, 28, 32];
 const groups:{id:Exclude<Group,'all'>;label:string;subtitle:string;symbol:string;image:string;tone:string}[] = [
-  {id:'self',label:'Для себя',subtitle:'Всё, что нравится',symbol:'♡',image:'/category/self.png',tone:'peach'},
-  {id:'home',label:'Для дома',subtitle:'Немного уюта',symbol:'✳',image:'/category/home.png',tone:'sand'},
-  {id:'sport',label:'Для спорта',subtitle:'Движение — жизнь',symbol:'↗',image:'/category/sport.png',tone:'lime'},
-  {id:'tech',label:'Технологии',subtitle:'Гаджеты и штуки',symbol:'⌘',image:'/category/tech.png',tone:'lavender'},
-  {id:'hobby',label:'Хобби',subtitle:'Для вдохновения',symbol:'✦',image:'/category/hobby.png',tone:'rose'}
+  {id:'self',label:'Для себя',subtitle:'Всё, что нравится',symbol:'♡',image: `${import.meta.env.BASE_URL}category/self.png`,tone:'peach'},
+  {id:'home',label:'Для дома',subtitle:'Немного уюта',symbol:'✳',image: `${import.meta.env.BASE_URL}category/home.png`,tone:'sand'},
+  {id:'sport',label:'Для спорта',subtitle:'Движение — жизнь',symbol:'↗',image: `${import.meta.env.BASE_URL}category/sport.png`,tone:'lime'},
+  {id:'tech',label:'Технологии',subtitle:'Гаджеты и штуки',symbol:'⌘',image: `${import.meta.env.BASE_URL}category/tech.png`,tone:'lavender'},
+  {id:'hobby',label:'Хобби',subtitle:'Для вдохновения',symbol:'✦',image: `${import.meta.env.BASE_URL}category/hobby.png`,tone:'rose'}
 ];
 function getPrice(price:string):number|null {if(price.includes('¥'))return null;const match=price.replace(/[\s\u00a0\u2009\u202f]/g,'').match(/\d+/);return match?Number(match[0]):null;}
 const readError = (err:unknown) => err instanceof Error ? err.message : 'Что-то пошло не так. Попробуй ещё раз.';
@@ -122,7 +122,10 @@ function App(){
         <button className="hero-link" onClick={()=>chooseGroup('all')}>Смотреть желания <ArrowRight size={18}/></button>
         <span className="hero-doodle">↝</span>
       </div><div className="hero-art" aria-hidden="true">
-        <div className="hero-polaroid"><div className="polaroid-picture"><img src="/img/img-1.jpg" alt="faaaaaa"/></div><span>22 years, swaggy and a little bit slay </span></div>
+        <div className="hero-polaroid"><div className="polaroid-picture"><img
+  src={`${import.meta.env.BASE_URL}img/img-1.jpg`}
+  alt=""
+/></div><span>22 years, swaggy and a little bit slay </span></div>
         <div className="hero-sticky"><span>life lately:</span><p>✳ больше радоваться<br/>✳ находить красивое<br/>✳ пробовать новое<br/>✳ быть собой</p></div>
         <span className="hero-art-heart">♡</span><span className="hero-art-flower">✷</span>
       </div></section>
