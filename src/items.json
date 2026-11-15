@@ -318,5 +318,100 @@
     "price": "5 900 ₽",
     "group": "self",
     "multi": true
+  },
+    {
+    "id": 33,
+    "title": "Концерт Градусы",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/4395007/f0060d5fa336ae3a02c86b3f753e2dd1/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/concert/gradusy-2027-03-13",
+    "price": "от 2500 ₽",
+    "group": "self",
+    "multi": true
+  },
+    {
+    "id": 34,
+    "title": "Концерт Pizza",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/21422/bd9620c0cf9edd387ab4ea3aa79a5806/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/concert/pizza-2027",
+    "price": "от 3000 ₽",
+    "group": "self",
+    "multi": true
+  }
+  ,
+    {
+    "id": 35,
+    "title": "Стендап Аранова",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/5109582/0d6040ca6c64fd3f57fc8044cb7a4201/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/standup/elizaveta-varvara-aranova-2026-12-20",
+    "price": "от 1800 ₽",
+    "group": "self",
+    "multi": true
+  }
+  ,
+    {
+    "id": 35,
+    "title": "ЗБС-шоу мотофристайл",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/5109582/14afec90205fa2b3e9254c3dddcdc8fe/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/sport/zbs-shou-motofristail",
+    "price": "от 2700 ₽",
+    "group": "self",
+    "multi": true
+  },
+    {
+    "id": 36,
+    "title": "Концерт TAKETAKE",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/4395007/7f4c7dc85124125d32f8fc6d65a629e9/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/concert/taketake-2027",
+    "price": "от 1950 ₽",
+    "group": "self",
+    "multi": true
+  },
+    {
+    "id": 37,
+    "title": "Концерт Whole Lotta Swag",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/5098259/0d0cae43ab64e3a568a36f1b1886ca4e/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/concert/whole-lotta-swag-2026-12-26",
+    "price": "от 1950 ₽",
+    "group": "self",
+    "multi": true
+  }
+  ,
+    {
+    "id": 38,
+    "title": "Концерт IOWA",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/5109582/f550093cb6ba6b0b37b4276f2b4f22ea/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/concert/iowa-2026-11-29",
+    "price": "от 3000 ₽",
+    "group": "self",
+    "multi": true
+  }
+  ,
+    {
+    "id": 39,
+    "title": "Концерт Тринадцать карат",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/5098259/4576f82585d217771df470fc1e03fc65/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/concert/trinadtsat-karat-2026-12-25",
+    "price": "от 2500 ₽",
+    "group": "self",
+    "multi": true
+  }
+   ,
+    {
+    "id": 39,
+    "title": "Концерт Тринадцать карат",
+    "description": "",
+    "image": "https://avatars.mds.yandex.net/get-afishanew/5098259/4576f82585d217771df470fc1e03fc65/s1260x500",
+    "url": "https://afisha.yandex.ru/saint-petersburg/concert/trinadtsat-karat-2026-12-25",
+    "price": "от 2500 ₽",
+    "group": "self",
+    "multi": true
   }
 ]
