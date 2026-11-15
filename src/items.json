@@ -403,15 +403,4 @@
     "group": "self",
     "multi": true
   }
-   ,
-    {
-    "id": 39,
-    "title": "Концерт Тринадцать карат",
-    "description": "",
-    "image": "https://avatars.mds.yandex.net/get-afishanew/5098259/4576f82585d217771df470fc1e03fc65/s1260x500",
-    "url": "https://afisha.yandex.ru/saint-petersburg/concert/trinadtsat-karat-2026-12-25",
-    "price": "от 2500 ₽",
-    "group": "self",
-    "multi": true
-  }
 ]
